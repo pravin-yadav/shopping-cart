@@ -1,0 +1,16 @@
+.thumbnail img{
+  width: 200px;
+  height: 200px;
+}
+
+.caption p{
+  text-align: justify;
+}
+.price{
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+.btn-cart{
+  margin-right: 2px;
+}
